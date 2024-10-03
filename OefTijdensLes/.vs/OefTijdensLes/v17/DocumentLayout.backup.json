@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erme-\\Desktop\\wpl\\oefles\\OefTijdensLes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730289-3A7A-4DFE-B7B4-28BF187C44E7}|OefTijdensLes\\OefTijdensLes.csproj|c:\\users\\erme-\\desktop\\wpl\\oefles\\oeftijdensles\\oeftijdensles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB730289-3A7A-4DFE-B7B4-28BF187C44E7}|OefTijdensLes\\OefTijdensLes.csproj|solutionrelative:oeftijdensles\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB730289-3A7A-4DFE-B7B4-28BF187C44E7}|OefTijdensLes\\OefTijdensLes.csproj|c:\\users\\erme-\\desktop\\wpl\\oefles\\oeftijdensles\\oeftijdensles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB730289-3A7A-4DFE-B7B4-28BF187C44E7}|OefTijdensLes\\OefTijdensLes.csproj|solutionrelative:oeftijdensles\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\erme-\\Desktop\\wpl\\oefles\\OefTijdensLes\\OefTijdensLes\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "OefTijdensLes\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\erme-\\Desktop\\wpl\\oefles\\OefTijdensLes\\OefTijdensLes\\MainWindow.xaml",
+              "RelativeToolTip": "OefTijdensLes\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T09:01:05.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\erme-\\Desktop\\wpl\\oefles\\OefTijdensLes\\OefTijdensLes\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "OefTijdensLes\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\erme-\\Desktop\\wpl\\oefles\\OefTijdensLes\\OefTijdensLes\\MainWindow.xaml.cs",
+              "RelativeToolTip": "OefTijdensLes\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:00:59.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
